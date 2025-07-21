@@ -35,17 +35,6 @@ While my main goal is to grow as a **Data Engineer**, I bring strong analytical 
 
 ---
 
-### 🧠 Selected Projects
-
-- 📚 **Educational Bookstore Pipeline**: Normalized PostgreSQL schema, ETL from Excel, validation & staging → production using Python
-- 📘 **MongoDB Ingestion from OpenLibrary**: JSON ingestion, weekly pipeline via Airflow for school libraries
-- 📈 **Digital Marketing ETL**: Dockerized Airflow DAGs, data pulled from AWS RDS and stored in S3, insights visualized in Domo
-- 🧬 **ML Projects**: Classification of fetal health, stroke prediction, segmentation, price prediction, and customer behavior analysis
-
-You can check my pinned and other repositories for hands-on implementations.
-
----
-
 ### 🌱 Currently Exploring
 
 - Real-time data streaming (Kafka + Spark)
