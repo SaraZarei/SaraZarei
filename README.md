@@ -8,9 +8,8 @@ A passionate <strong>Data Professional</strong> with a solid background in <stro
 
 ### 🔍 About Me
 
-I'm a results-driven data professional with hands-on experience across the full data lifecycle — from data ingestion and transformation to modeling, analysis, and deployment. I have built **ETL pipelines**, designed **normalized relational schemas**, worked with **NoSQL document stores**, and developed machine learning models for **classification, regression, and clustering** tasks.
+I'm a results-driven **data professional** with advanced expertise in **Data Analysis**, **Data Science**, and **Data Engineering**. I bring comprehensive experience across the full data lifecycle — from **data ingestion and transformation** to **modeling, analysis**, and **deployment**. My work includes building scalable **ETL pipelines**, designing **normalized relational schemas**, managing **NoSQL document stores**, and developing **machine learning models** for classification, regression, and clustering. By combining strong **analytical thinking**, deep **data science knowledge**, and solid **engineering skills**, I consistently deliver solutions that integrate **robust infrastructure** with **actionable insights**.
 
-While my main goal is to grow as a **Data Engineer**, I bring strong analytical thinking and deep knowledge of **data science concepts**, which gives me an edge in understanding both **data infrastructure** and **insights**.
 
 ---
 
