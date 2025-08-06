@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sara Zarei</h1>
 
 <p align="center">
-A passionate <strong>Data Engineer</strong> with a solid background in <strong>Data Science</strong> and <strong>Data Analytics</strong>, based in Munich 🇩🇪  
+A passionate <strong>Data Profesional</strong> with a solid background in <strong>Data Analytics</strong>, <strong>Data Science</strong> and <strong>Data Engineering</strong>, based in Munich 🇩🇪  
 </p>
 
 ---
