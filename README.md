@@ -31,12 +31,14 @@ I’m a results-driven **Data Analytics Engineer** with strong hands-on experien
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: Python, SQL
-- **Data Engineering**: PostgreSQL, MongoDB, Airflow, Terraform, Kafka, Spark, ETL Pipelines, Data Modeling (3NF, Star & Snowflake Schemas), Normalization, API Integration, Data Wrangling
-- **ML/DS**: Scikit-learn, Pandas, NumPy, XGBoost, SVM, Decision Trees, Clustering (K-Means, DBSCAN)
-- **Visualization**: Matplotlib, Seaborn, Tableau, Power BI, Domo
-- **Cloud**: AWS (Lambda, S3, EventBridge), Google Cloud (BigQuery, Cloud Functions)
-- **Workflow & Dev Tools**: Jupyter, Docker, Git
+**Languages:** Python, SQL  
+**Analytics Engineering:** ELT (dbt-style modular SQL), Staging/Intermediate/Marts Layers, Canonical Keys, KPI Definitions, Incremental Models, Partitioning & Clustering (BigQuery), Data Quality Checks (tests/flags), Reconciliation & Backfill Handling  
+**Data Engineering:** PostgreSQL, MongoDB, Airflow, Terraform, Kafka, Spark, ETL Pipelines, Data Modeling (3NF, Star & Snowflake), Normalization, API Integration, Data Wrangling  
+**ML/DS:** Scikit-learn, Pandas, NumPy, XGBoost, SVM, Decision Trees, Clustering (K-Means, DBSCAN)  
+**Visualization:** Matplotlib, Seaborn, Tableau, Power BI, Domo  
+**Cloud:** AWS (Lambda, S3, EventBridge), Google Cloud (BigQuery, Cloud Functions)  
+**Workflow & Dev Tools:** Jupyter, Docker, Git
+
 
 
 
