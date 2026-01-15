@@ -7,19 +7,25 @@ A passionate <strong>Data Professional</strong> with a solid background in <stro
 ---
 
 ### 🔍 About Me
-
-I'm a results-driven **data professional** with advanced expertise in **Data Analysis**, **Data Science**, and **Data Engineering**. I bring comprehensive experience across the full data lifecycle — from **data ingestion and transformation** to **modeling, analysis**, and **deployment**. My work includes building scalable **ETL pipelines**, designing **normalized relational schemas**, managing **NoSQL document stores**, and developing **machine learning models** for classification, regression, and clustering. By combining strong **analytical thinking**, deep **data science knowledge**, and solid **engineering skills**, I consistently deliver solutions that integrate **robust infrastructure** with **actionable insights**.
+I’m a results-driven **Data Analytics Engineer** with strong hands-on experience building reliable **data models**, **ETL/ELT pipelines**, and **KPI-ready marts** that power analytics and decision-making. I also work as a **Data Analyst**, translating business questions into clear metrics, dashboards, and insights with strong SQL and data storytelling. In addition, I have a solid foundation in **Data Science and Machine Learning**, including practical experience with supervised/unsupervised models (classification, regression, clustering) to support predictive and segmentation use cases.
 
 
 ---
 
 ### 💼 What I Do
 
-- 🔄 **Data Engineering**: Design and build scalable ETL/ELT pipelines using Airflow, Python, PostgreSQL, and MongoDB, with strong focus on data validation, staging, and schema design (3NF, Star, and Snowflake)
-- ☁️ **Cloud & IaC**: Deploy and orchestrate workflows using AWS Lambda, S3, EventBridge, and CloudWatch, with infrastructure automated via Terraform
-- 📈 **Data Analytics**: Perform exploratory data analysis, data wrangling, API-based data sourcing, and deliver business insights through visualization tools like Tableau, Power BI, and Domo
-- 🤖 **Machine Learning**: Build and evaluate supervised and unsupervised models for real-world prediction/classification/segmentation
-- 📊 **Digital Marketing Analytics**: Analyze performance of B2B/B2C campaigns, clean and unify data across CRMs and third-party tools, and drive insights that support business decision-making
+🧱 **Analytics Engineering**: Build **clean, documented, and scalable data models** (staging → intermediate → marts) with consistent KPI definitions, canonical keys, and data quality checks (dbt-style modular SQL).
+
+🔄 **Data Engineering (ELT/ETL)**: Design and maintain reliable pipelines with **Python + SQL**, ingestion from APIs/files, incremental loads, deduplication strategies, and schema design (**3NF + Star/Snowflake** where appropriate).
+
+✅ **Data Quality & Observability**: Implement validation rules (null/format checks, anomaly flags, freshness/lag monitoring), and create “trust layers” so downstream dashboards don’t break or lie.
+
+📊 **Data Analysis & BI**: Translate business questions into metrics and dashboards; deliver actionable insights using **BigQuery/SQL**, and visualization tools like **Power BI / Tableau / Looker Studio**.
+
+☁️ **Cloud Data Platforms**: Work with cloud-native analytics stacks (e.g., **BigQuery**, object storage, orchestration) and optimize cost/performance with partitioning, clustering, and query design.
+
+🧩 **Business & Growth Analytics**: Unify cross-channel data (e-commerce, ads, web/app analytics, CRM) and build KPI layers for revenue, AOV, conversion, retention, and cohort reporting.
+
 
 ---
 
@@ -32,15 +38,7 @@ I'm a results-driven **data professional** with advanced expertise in **Data Ana
 - **Cloud**: AWS (Lambda, S3, EventBridge), Google Cloud (BigQuery, Cloud Functions)
 - **Workflow & Dev Tools**: Jupyter, Docker, Git
 
----
 
-### 🌱 Currently Exploring
-
-- Real-time data streaming (Kafka + Spark)
-- MLOps and model deployment pipelines
-- Advanced Infrastructure as Code with Terraform
-
----
 
 ### 📫 Let's Connect
 
