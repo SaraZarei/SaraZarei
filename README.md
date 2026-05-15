@@ -1,52 +1,33 @@
 <h1 align="center">👋 Hi, I'm Sara Zarei</h1>
 
-<p align="center">
-A passionate <strong>Data Engineer & Analytics Engineer & </strong> with a solid background in <strong>Data modeling</strong>, based in Munich 🇩🇪  
-</p>
-
----
-
 ### 🔍 About Me
-I’m a results-driven **Data Analytics Engineer** with strong hands-on experience building reliable **data models**, **ETL/ELT pipelines**, and **KPI-ready marts** that power analytics and decision-making. I also work as a **Data Analyst**, translating business questions into clear metrics, dashboards, and insights with strong SQL and data storytelling. In addition, I have a solid foundation in **Data Science and Machine Learning**, including practical experience with supervised/unsupervised models (classification, regression, clustering) to support predictive and segmentation use cases.
+I’m passionate about building reliable data systems that turn raw, scattered data into clean, trusted, and analytics-ready datasets. My main focus is **Data Engineering** and **Analytics Engineering**, with a strong interest in data quality, pipeline reliability, scalable data models, and KPI-ready reporting layers.
+
+I also have knowledge of **Data Analytics, Data Science, and Machine Learning**, including exploratory analysis, feature preparation, classification, regression, clustering, and preparing model-ready datasets.
 
 
 ---
 
 ### 💼 What I Do
-
-🧱 **Analytics Engineering**: Build **clean, documented, and scalable data models** (staging → intermediate → marts) with consistent KPI definitions, canonical keys, and data quality checks (dbt-style modular SQL).
-
-🔄 **Data Engineering (ELT/ETL)**: Design and maintain reliable pipelines with **Python + SQL**, ingestion from APIs/files, incremental loads, deduplication strategies, and schema design (**3NF + Star/Snowflake** where appropriate).
-
-✅ **Data Quality & Observability**: Implement validation rules (null/format checks, anomaly flags, freshness/lag monitoring), and create “trust layers” so downstream dashboards don’t break or lie.
-
-📊 **Data Analysis & BI**: Translate business questions into metrics and dashboards; deliver actionable insights using **BigQuery/SQL**, and visualization tools like **Power BI / Tableau / Looker Studio**.
-
-☁️ **Cloud Data Platforms**: Work with cloud-native analytics stacks (e.g., **BigQuery**, object storage, orchestration) and optimize cost/performance with partitioning, clustering, and query design.
-
-🧩 **Business & Growth Analytics**: Unify cross-channel data (e-commerce, ads, web/app analytics, CRM) and build KPI layers for revenue, AOV, conversion, retention, and cohort reporting.
+- Build end-to-end **ETL/ELT pipelines**
+- Design clean and reliable **data models**
+- Create **staging, intermediate, canonical, and mart layers**
+- Develop **KPI-ready tables** for dashboards and reporting
+- Perform **data quality checks**, validation, deduplication, and reconciliation
+- Work with structured, semi-structured, and API-based data
+- Transform raw data into trusted datasets for analytics and decision-making
+- Prepare clean datasets for analytics, reporting, and machine learning workflows.
 
 
 ---
 
 ### 🛠️ Technologies & Tools
-
-**Languages:** Python, SQL  
-
-**Analytics Engineering:** ELT (dbt-style modular SQL), Staging/Intermediate/Marts Layers, Canonical Keys, KPI Definitions, Incremental Models, Partitioning & Clustering (BigQuery), Data Quality Checks (tests/flags), Reconciliation & Backfill Handling  
-
-**Data Engineering:** PostgreSQL, MongoDB, Airflow, Terraform, Kafka, Spark, ETL Pipelines, Data Modeling (3NF, Star & Snowflake), Normalization, API Integration, Data Wrangling  
-
-**ML/DS:** Scikit-learn, Pandas, NumPy, XGBoost, SVM, Decision Trees, Clustering (K-Means, DBSCAN)
-
-**Visualization:** Matplotlib, Seaborn, Tableau, Power BI, Domo  
-
-**Cloud:** AWS (Lambda, S3, EventBridge), Google Cloud (BigQuery, Cloud Functions)  
-
-**Workflow & Dev Tools:** Jupyter, Docker, Git
-
-
-
+- **Programming:** Python, SQL
+- **Databases & Warehouses:** PostgreSQL, BigQuery, MySQL, MongoDB
+- **Data Engineering:** ETL/ELT, REST APIs, incremental loads, data validation, data modeling
+- **Orchestration & Cloud:** Apache Airflow, AWS Lambda, EventBridge, CloudWatch, S3
+- **Analytics & BI:** Power BI, Domo, KPI reporting, dashboard-ready marts
+- **Data Science & ML:** pandas, exploratory data analysis, feature preparation, classification, regression, clustering
 
 ### 📫 Let's Connect
 
